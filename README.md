@@ -1,15 +1,11 @@
 # Xiangwen Luo
 
-Mathematics student at the University of Warwick.
+Graduate student at **The Chinese University of Hong Kong (CUHK)**.
 
-I explore quantitative research through Python, with projects in strategy backtesting, volatility forecasting, and commodity markets.
+Interested in quantitative research, systematic strategies, and commodity markets. I use Python to build research tools and test ideas.
 
 ### Selected projects
 
-- [quant_backtest_hub](https://github.com/rOOOOOnn/quant_backtest_hub) — A team strategy backtesting engine.
-- [vol-gc-midfreq](https://github.com/rOOOOOnn/vol-gc-midfreq) — Volatility forecasting for CME Gold Futures using HAR-RV models.
-- [hog-cycle-quant](https://github.com/rOOOOOnn/hog-cycle-quant) — Quantitative research on Chinese hog futures and commodity cycles.
-
-### Mathematics & code
-
-[MA3K7 · Problem Solving with Python](https://github.com/rOOOOOnn/MA3K7-Problem-Solving-with-Python)
+- **[Strategy backtesting](https://github.com/rOOOOOnn/quant_backtest_hub)** — A shared engine for testing trading strategies.
+- **[Gold volatility forecasting](https://github.com/rOOOOOnn/vol-gc-midfreq)** — A HAR-RV forecasting pipeline for CME Gold Futures, combining realized and implied volatility.
+- **[Commodity cycle research](https://github.com/rOOOOOnn/hog-cycle-quant)** — A quantitative research framework for Chinese hog futures and commodity cycles.
